@@ -1,5 +1,4 @@
-### Hello I'm Sena 👋
-![Google Developer Student Club](https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif)                                                                                    
+# Hello I'm Sena 👋|![Google Developer Student Club](https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif)             
 - 💻 I’m a Computer Engineering Student at Beykent University
 - 🎓 I’m Team Lead at Beykent University Google Developer Student Club
 - 📫 How to reach me: <br /><br />
