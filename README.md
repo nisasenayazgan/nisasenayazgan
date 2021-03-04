@@ -7,7 +7,7 @@
 - 👩‍💻 Skills:<br/><br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)<br/>
 ![Google Developer Student Club](https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif)
 
 
